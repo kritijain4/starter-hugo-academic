@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 10
-title: Hugo Academic Theme
+title: Kriti Jain
 hero_media: hero-academic.png
 cta:
   label: '**Get Started**'
